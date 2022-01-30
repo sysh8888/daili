@@ -1,0 +1,23 @@
+首页
+https://show-g.mediav.com/s?type=1&of=4&newf=1&scheme=https&uid=16426572284232048787930727243067&showid=90TyDl&reqtimes=1&impct=7&refurl=&jsonp=__jp1广告
+https://api.web.360kan.com/v1/block?blockid=522&callback=__jp2 轮播图
+https://api.web.360kan.com/v1/block?blockid=131&callback=__jp3 热播新剧
+https://api.web.360kan.com/v1/rank?cat=3&size=10&callback=__jp4  电视剧排行
+https://api.web.360kan.com/v1/block?blockid=43&callback=__jp5 百变综艺
+https://api.web.360kan.com/v1/rank?cat=4&size=10&callback=__jp6 综艺排行
+https://api.web.360kan.com/v1/block?blockid=90&size=12&callback=__jp7热门电影
+https://api.web.360kan.com/v1/rank?cat=2&size=10&callback=__jp8 电影排行
+https://api.web.360kan.com/v1/block?blockid=25&size=12&callback=__jp9儿童乐园
+https://api.web.360kan.com/v1/rank?cat=6&size=10&callback=__jp10 少儿排行
+https://api.web.360kan.com/v1/block?blockid=72&size=12&callback=__jp11动漫世界
+https://api.web.360kan.com/v1/rank?cat=5&size=10&callback=__jp12 动漫排行
+https://api.web.360kan.com/v1/block?blockid=546&size=15&callback=__jp13共筑中国梦
+https://api.web.360kan.com/v1/block?blockid=542&page=1&size=1&callback=__jp15 空
+https://api.web.360kan.com/v1/rank?cat=1&size=8&callback=__jp16
+https://api.web.360kan.com/v1/query/addef?ver=2&fmt=jsonp&t=2737762&callback=__vui_jp0 搜索推荐
+搜索
+https://api.so.360kan.com/index?force_v=1&kw=%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB&from=&pageno=1&v_ap=1&tab=all&cb=__jp0
+详情
+https://api.web.360kan.com/v1/detail?cat=1&id=gqfkYRH2Q0f5TB&callback=__jp0
+https://api.web.360kan.com/v1/filter/list?catid=1&cat=%E5%96%9C%E5%89%A7&size=20&callback=__jp3 精彩推荐
+列表
